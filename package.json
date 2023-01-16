@@ -1,0 +1,16 @@
+{
+  "name": "vite-vue-starter",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "story:dev": "histoire dev"
+  },
+  "dependencies": {
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "histoire": "^0.6.4",
+    "vite": "^2.8.0"
+  }
+}
